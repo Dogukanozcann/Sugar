@@ -1,2 +1,4 @@
 # Sugar
 SugarWebsite
+
+![](sugarbg.png)
